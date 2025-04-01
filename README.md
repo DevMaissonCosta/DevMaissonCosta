@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Maisson Costa.
 
-**`Desenvolvedor back-end`**
+**`Desenvolvedor back-end em aprendizagem / Java | Dart`**
 
 Olá, tudo bem?<br>Eu sou o Maisson Costa, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente estudo Análise e desenvolvimento de sistemas.<br>
 

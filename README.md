@@ -1,4 +1,4 @@
-## 👨🏾‍💻 Maisson Costa
+## Maisson Costa
 **`Desenvolvedor Front End`**
 
 Olá! Me chamo Maisson Costa, tenho 19 anos e sou natural do Rio Grande do Sul.<br>

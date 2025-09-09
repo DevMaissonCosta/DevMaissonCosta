@@ -6,7 +6,10 @@
 
 ###
 
-<p align="left">Desenvolvedor de software, back end.<br>Estudante de análise e desenvolvimento de sistemas.<br>19 anos, rio grande do sul / brasil.<br>www.linkedin.com/in/maisson-costa</p>
+<p align="left">👩💻 Desenvolvedor de software, back end.<br>
+  📚 Estudante de análise e desenvolvimento de sistemas.<br>
+  📍 19 anos, rio grande do sul / brasil.<br>
+  www.linkedin.com/in/maisson-costa</p>
 
 ###
 

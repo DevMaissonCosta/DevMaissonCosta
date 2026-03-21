@@ -1,15 +1,15 @@
-<h1 align="left">Olá, sou o Maisson Costa!</h1>
+<h1 align="left">Olá, me chamo Maisson Costa!</h1>
 
 ###
 
-<p align="left"></p>
+<p align="left">
+💻 Front-End Developer
+📍 Brasil
+</p>
 
 ###
 
-<p align="left">💻 Desenvolvedor de software, Front end.<br>
-  📚 Estudante de análise e desenvolvimento de sistemas.<br>
-  📍 19 anos, rio grande do sul / brasil.<br>
-  www.linkedin.com/in/maisson-costa</p>
+<p align="left">p>
 
 ###
 

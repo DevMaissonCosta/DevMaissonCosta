@@ -1,4 +1,4 @@
-<h1 align="left">Olá, me chamo Maisson Costa!</h1>
+<h1 align="left">Maisson Costa</h1>
 
 ###
 
@@ -17,6 +17,7 @@
 <p align="left">
 
 Desenvolvedor backend com foco em Java.
+<br>
 Comprometido com código limpo, boas práticas
 e construção de sistemas robustos e eficientes.
 
@@ -31,20 +32,17 @@ e construção de sistemas robustos e eficientes.
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="40" alt="html logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="react logo"/>
-  
+
 </div>
 
 ###

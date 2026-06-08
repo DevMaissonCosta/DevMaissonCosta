@@ -15,9 +15,10 @@
 ###
 
 <p align="left">
-Focado em desenvolvimento backend com Java,
-aplicando Programação Orientada a Objetos,
-banco de dados e boas práticas de código.
+
+Desenvolvedor backend com foco em Java.
+Comprometido com código limpo, boas práticas
+e construção de sistemas robustos e eficientes.
 
 </p>
 

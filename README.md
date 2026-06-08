@@ -8,23 +8,17 @@
 ###
 
 <p align="left">
-💻 Front-End Developer
+💻 Backend Developer
   <br>
-📍 Brasil </p>
+📍 Rio Grande do Sul, Brasil </p>
 
 ###
 
 <p align="left">
-Sou desenvolvedor focado na construção de interfaces modernas, bem estruturadas e com atenção à experiência do usuário.
+Focado em desenvolvimento backend com Java,
+aplicando Programação Orientada a Objetos,
+banco de dados e boas práticas de código.
 
-Tenho direcionado meus estudos e projetos para o desenvolvimento front-end, aplicando boas práticas de código, organização e responsividade.
-
-Sigo evoluindo constantemente, com foco em projetos reais e com aprofundamento em JavaScript para expandir minha atuação.
-<br>
-
-Aqui você encontrará projetos práticos que demonstram minha evolução e aplicação de conceitos no desenvolvimento de interfaces.
-
-Cada projeto é desenvolvido com foco em melhoria contínua, organização de código e atenção aos detalhes.
 </p>
 
 ###

@@ -8,9 +8,9 @@
 ###
 
 <p align="left">
-💻 Backend Developer
+  💻 Desenvolvedor Java Backend
   <br>
-📍 Rio Grande do Sul, Brasil </p>
+  📍 Rio Grande do Sul, Brasil </p>
 
 ###
 
